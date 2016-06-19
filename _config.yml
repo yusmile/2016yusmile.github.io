@@ -1,0 +1,46 @@
+﻿gems: [jekyll-paginate]
+
+permalink: /:year/:month/:day/:title.html
+paginate: 10
+highlighter: rouge
+markdown: kramdown
+pygments: true
+
+# 作者信息
+author: 
+  name: 海天心Y2kking
+  email: 182036669@qq.com
+  link: http://cometrue.top
+  weibo: http://weibo.com/1419491963
+  github: http://github.com/yusmile
+  weixin: 微信公众号——海天心
+
+# 站点信息
+title: Dream Come True
+description: The Pursuit of Happyness(自留地)
+url: http://cometrue.top
+rss_url: /pages/atom.xml
+
+# gavatar头像及Favicon
+avatar: http://7xr5a7.com1.z0.glb.clouddn.com/The%20Pursuit%20of%20Happyness2.png
+favicon: http://7xr5a7.com1.z0.glb.clouddn.com/icon2.png
+
+
+# disqus 设置
+disqus:
+  shortname: butler
+
+# 主题设置，自动激活某个标签
+active: 升级进化
+
+# 显示分类
+cates: 
+  - Game　Engine
+  - cocos2dx
+
+# 中文本地化
+locals:
+  tags: 标签
+  about: 关于
+  archive: 归档
+  content: 目录
