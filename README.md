@@ -1,21 +1,16 @@
 ﻿### 我的博客
-
-< HEAD
-地址：[yusmile.github.io](http://yusmile.github.io)
+&nbsp;&nbsp;地址：[yusmile.github.io](http://yusmile.github.io)
 	[http://cometrue.top](http://cometrue.top)
 -------  
-<br>  
-< origin/master
-<br>  
+ 
 
 ### 关于我
-  [新浪微博](http://weibo.com/1419491963) <br>  
-	 [微信公众号](http://mp.weixin.qq.com/profile?src=3&timestamp=1476001418&ver=1&signature=rBJMn1rqlPiI8wy6UtBrnTBDEwQ7*zoZ5QE8NVwyP7YsuLK9Ji1HL1uFaLjUPxjcPz0zVlxikC4Uraas5OpizQ==)
+&nbsp;&nbsp;[新浪微博](http://weibo.com/1419491963) <br>  
+&nbsp;&nbsp;[微信公众号](http://mp.weixin.qq.com/profile?src=3&timestamp=1476001418&ver=1&signature=rBJMn1rqlPiI8wy6UtBrnTBDEwQ7*zoZ5QE8NVwyP7YsuLK9Ji1HL1uFaLjUPxjcPz0zVlxikC4Uraas5OpizQ==)
 
 <br>  
 
->>>>>>梦想是拿来实现的
-=====================
+
 
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<<[现实梦想](http://cometrue.top)>>
@@ -28,6 +23,8 @@
       行动实现梦想
       甚至超越梦想
 
+>>>>>>梦想是拿来实现的
+=====================
 
 
 <br>  
