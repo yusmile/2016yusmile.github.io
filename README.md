@@ -1,15 +1,16 @@
 ﻿### 我的博客
 
-<<<<<<< HEAD
+< HEAD
 地址：[yusmile.github.io](http://yusmile.github.io)
 =======
 地址：[http://cometrue.top](http://cometrue.top)
 
->>>>>>> origin/master
+>origin/master
 
 ### 安装说明
 ### 关于我
  [新浪微博](http://weibo.com/1419491963)
+
 	1. fork库到自己的github
 		2. 修改名字为：`username.github.io`
 	3. clone库到本地，参考`_posts`中的目录结构自己创建适合自己的文章目录结构
@@ -20,9 +21,9 @@
 >>>>>>梦想是拿来实现的
 =====================
 
-<<<<<<< [现实梦想](http://cometrue.top)>>>>>>
+<<[现实梦想](http://cometrue.top)>>
  
- 
+
 
 `——梦想 之所以 能实现——`
 
