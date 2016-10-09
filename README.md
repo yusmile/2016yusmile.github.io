@@ -4,6 +4,7 @@
 地址：[yusmile.github.io](http://yusmile.github.io)
 =======
 地址：[http://cometrue.top](http://cometrue.top)
+
 >>>>>>> origin/master
 
 ### 安装说明
@@ -16,7 +17,9 @@
 	5. 修改`_config.yml`配置项
 		6. It's done!
 
-### >>>>>>梦想是拿来实现的
+>>>>>>梦想是拿来实现的
+=====================
+
 <<<<<<< [现实梦想](http://cometrue.top)>>>>>>
  
  
