@@ -16,8 +16,10 @@
 5. 修改`_config.yml`配置项
 6. It's done!
 
-        [现实梦想](http://cometrue.top)
+### 关于名字
+ [现实梦想](http://cometrue.top)
 
+     梦想是拿来实现的
  
 
 `——梦想 之所以 能实现——`
