@@ -16,7 +16,7 @@
 5. 修改`_config.yml`配置项
 6. It's done!
 
-        现实梦想
+        [现实梦想](http://cometrue.top)
 
  
 
@@ -24,7 +24,7 @@
 
       现在开始践行
       行动实现梦想
-      甚至[超越梦想](http://cometrue.top)
+      甚至超越梦想
 
 
 ### 分支说明
