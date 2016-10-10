@@ -23,11 +23,14 @@
       行动实现梦想
       甚至超越梦想
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<<[现实梦想](http://cometrue.top)>>
+ 
  
 
 >>>>>>梦想是拿来实现的
+
 <br> 
+
+[现实梦想](http://cometrue.top)：
 现在行动
 &nbsp;实&nbsp;现<br>
 &nbsp;&nbsp;梦<br>
