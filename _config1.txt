@@ -29,3 +29,21 @@ favicon: http://7xr5a7.com1.z0.glb.clouddn.com/icon2.png
 # disqus 设置
 disqus:
   shortname: butler
+
+# 主题设置，自动激活某个标签
+active: 升级进化
+
+# 显示分类
+cates: 
+  - Game　Engine
+  - cocos2dx
+
+# 中文本地化
+locals:
+  tags: 标签
+  about: 关于
+  archive: 归档
+  content: 目录
+  do:践行
+  think:精进
+  money:财富
